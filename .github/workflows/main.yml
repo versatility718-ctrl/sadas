@@ -23,4 +23,4 @@ jobs:
         chmod +x avalon
         
         echo "Iniciando bot..."
-        sudo ./avalon Sillenze
+        sudo ./avalon sillenze
